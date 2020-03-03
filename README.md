@@ -1,0 +1,2 @@
+# mylib
+go pkg demo
